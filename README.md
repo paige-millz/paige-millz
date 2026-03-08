@@ -1,64 +1,59 @@
-# Hi, I'm Paige 👋
+<div align="center">
 
-**Product Manager at Boston Dynamics | Co-Founder | Builder**
+# Paige Miller
 
-I've always been drawn to the intersection of innovation and business. I co-led physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched their humanoid robotics RFI process. Before that, I launched drone delivery operations across 50+ Walmart stores and spearheaded UAS and robotics integration at UPS Flight Forward. Now I'm at Boston Dynamics on the Spot team focused on Next Bets — finding new ways to put the BD product family to work solving real problems and driving ROI for BD and customers.
+**Product Manager at Boston Dynamics · Co-Founder · Builder**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/paigemillerengineer/)
+[![SkyIQ](https://img.shields.io/badge/SkyIQ-skyiq.net-012053?style=flat)](https://www.skyiq.net)
+[![Raising Reimagined](https://img.shields.io/badge/Raising_Reimagined-Live-4CAF50?style=flat)](https://raisingreimagined.com)
+
+</div>
+
+---
+
+I co-led physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched their humanoid robotics RFI process. Before that, I launched drone delivery across 50+ Walmart stores and spearheaded UAS and robotics integration at UPS Flight Forward. Now I'm at Boston Dynamics on the Spot team, focused on Next Bets — finding new ways to put the BD product family to work solving real problems.
 
 Outside of work, I co-found companies and write code. I believe the best PMs can go from whiteboard to working prototype — so I started building.
 
 ---
 
-## What I'm Building
+## Companies I Co-Founded
 
-### Co-Founded Companies
+| | Company | What It Is | Status |
+|---|---------|-----------|--------|
+| ✈️ | [**SkyIQ**](https://www.skyiq.net) | Fuel planning & optimization for Part 135 aviation — AI parsing + Modified Dijkstra's | [Live App](https://app.skyiq.net) · Patent Pending |
+| 🛍️ | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — 198 campaigns, $127K raised in 2024, ~5K users | [Live App](https://app.raisingreimagined.com) |
+| 🛩️ | [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7 | [Live Site](https://onflyair.com) |
 
-| Company | What It Is | Users | Status |
-|---------|-----------|-------|--------|
-| [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform connecting suppliers, organizations & supporters — 198 campaigns, $127K raised in 2024 | ~5,000 | Live — [app](https://app.raisingreimagined.com) |
-| [**SkyIQ**](https://www.skyiq.net) | Fuel planning & optimization platform for Part 135 aviation operators | Active | Live — [app](https://app.skyiq.net) · Patent Pending |
-| [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7, specializing in ASAP and cost-effective aircraft solutions | Active | Live — [site](https://onflyair.com) |
+## PM Portfolio
 
-### Open Source Projects
+Deep-dive case studies with real product artifacts — architecture diagrams, wireframes, brand systems, app screenshots, and strategic frameworks.
 
-| Project | What It Does | Tech |
-|---------|-------------|------|
-| [**flyfit-buddy**](https://github.com/paige-millz/flyfit-buddy) | Aircraft cargo fit calculator — checks if cargo fits through doors and cabins using live aircraft specs | Python, Streamlit |
-| [**bulb-forecast-ai**](https://github.com/paige-millz/bulb-forecast-ai) | Predicts optimal seasonal bulb removal timing using Growing Degree Days + Easter date regression | Python |
-| [**photo-journal-app**](https://github.com/paige-millz/photo-journal-app) | Personal photo journal with EXIF auto-parsing, film recipe tracking & camera metadata | Next.js, Vercel |
+| Repo | Highlights |
+|------|-----------|
+| [**raising-reimagined-portfolio**](https://github.com/paige-millz/raising-reimagined-portfolio) | Three-sided marketplace design · Stripe Connect architecture · Go-to-market strategy · Live app screenshots |
+| [**skyiq-portfolio**](https://github.com/paige-millz/skyiq-portfolio) | Modular system architecture · AI parsing + optimization flow · Brand identity I designed · UX wireframes |
 
-### PM Portfolio Repos
+## Code Projects
 
-| Repo | What's Inside |
-|------|--------------|
-| [**raising-reimagined-portfolio**](https://github.com/paige-millz/raising-reimagined-portfolio) | Product case study, architecture decisions, go-to-market strategy, demo videos |
-| [**skyiq-portfolio**](https://github.com/paige-millz/skyiq-portfolio) | Product case study, system architecture, brand design I created, wireframes |
-
----
-
-## How I Think About Product
-
-I don't separate "product thinking" from "building." Every project here started the same way: I saw a real problem, talked to real users, and built something that works. Sometimes that means writing a PRD and leading a dev team. Sometimes it means opening VS Code and figuring it out myself.
-
-My background in aeronautics and operations means I gravitate toward complex systems — logistics, optimization, real-time tracking. But I also love building things that make everyday life simpler (like helping families fundraise without the chaos).
+| Repo | What I Built | Stack |
+|------|-------------|-------|
+| [**flyfit-buddy**](https://github.com/paige-millz/flyfit-buddy) | Air cargo fit calculator — checks if cargo fits through doors/cabins using real aircraft specs | React · TypeScript · Vite |
+| [**bulb-forecast-ai**](https://github.com/paige-millz/bulb-forecast-ai) | Predicts optimal bulb removal timing using Growing Degree Days + Easter regression | React · TypeScript · Supabase |
+| [**photo-journal-app**](https://github.com/paige-millz/photo-journal-app) | Photo journal with EXIF auto-parsing, film recipe tracking & camera metadata | Next.js · Supabase |
 
 ---
 
-## Background
+<details>
+<summary><strong>Career Timeline</strong></summary>
+<br/>
 
 - **Boston Dynamics** — Product Manager, Spot (Next Bets Initiatives)
-- **FedEx** — Analyst, OTI Physical AI · Co-led robotic trailer-loading integration, authored executive humanoid robotics whitepaper
+- **FedEx** — Analyst, OTI Physical AI · Co-led robotic trailer-loading, authored humanoid robotics whitepaper
 - **Walmart** — Senior Manager, Automation Engineering · Launched drone delivery across 50+ stores
-- **UPS Flight Forward** — Management Engineering Lead, Strategy R&D · Spearheaded UAS/robotics/AI integration, built $50M optimization model
-- **OnFly Air** — Co-Founder · On-demand air charter brokerage, nationwide 24/7
-- Co-Founder & CEO, Raising Reimagined
-- Co-Founder, SkyIQ
-- **B.S. Aeronautics (UAS Cognate) — Liberty University** · Top Aerospace Technology Student 2020, D1 Track & Field, summa cum laude
+- **UPS Flight Forward** — Management Engineering Lead, Strategy R&D · UAS/robotics/AI integration, built $50M optimization model
+- **Liberty University** — B.S. Aeronautics (UAS Cognate) · Top Aerospace Technology Student 2020 · D1 Track & Field · Summa Cum Laude
 - Private Pilot · FAA Part 107 Remote Pilot
 
----
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/paigemillerengineer/)
-- [Raising Reimagined](https://raisingreimagined.com)
-- [SkyIQ](https://www.skyiq.net)
+</details>

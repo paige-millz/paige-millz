@@ -1,8 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Paige Miller — Product Manager at Boston Dynamics" width="100%"/>
+</p>
+
 <div align="center">
-
-# Paige Miller
-
-**Product Manager at Boston Dynamics · Co-Founder · Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/paigemillerengineer/)
 [![SkyIQ](https://img.shields.io/badge/SkyIQ-skyiq.net-012053?style=flat)](https://www.skyiq.net)

@@ -12,9 +12,9 @@
 
 ---
 
-I co-led physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched their humanoid robotics RFI process. Before that, I launched drone delivery across 50+ Walmart stores and spearheaded UAS and robotics integration at UPS Flight Forward. Now I'm at Boston Dynamics on the Spot team, focused on Next Bets — finding new ways to put the BD product family to work solving real problems.
+I supported physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched FedEx's humanoid robotics RFI process. Before that, I launched the first Wing drone delivery site in Frisco, TX and supported expansion across 50+ Walmart stores and spearheaded UAS and robotics integration at UPS Flight Forward. Now I'm at Boston Dynamics on the Spot team, focused on Next Bets — finding new ways to put the BD product family to work solving real problems.
 
-Outside of work, I co-found companies and write code. I believe the best PMs can go from whiteboard to working prototype — so I started building.
+Outside of work, I co-found companies. I believe the best PMs can go from whiteboard to working prototype — so I started building.
 
 ---
 
@@ -50,9 +50,9 @@ Deep-dive case studies with real product artifacts — architecture diagrams, wi
 <br/>
 
 - **Boston Dynamics** — Product Manager, Spot (Next Bets Initiatives)
-- **FedEx** — Analyst, OTI Physical AI · Co-led robotic trailer-loading, authored humanoid robotics whitepaper
-- **Walmart** — Senior Manager, Automation Engineering · Launched drone delivery across 50+ stores
-- **UPS Flight Forward** — Management Engineering Lead, Strategy R&D · UAS/robotics/AI integration, built $50M optimization model
+- **FedEx** — Analyst, OTI Physical AI · Robotic trailer-loading, authored humanoid robotics whitepaper
+- **Walmart** — Senior Manager, Automation Engineering · Supporting Walmart's drone delivery expansion
+- **UPS Flight Forward** — Management Engineering Lead, Strategy R&D · UAS/robotics/AI integration
 - **Liberty University** — B.S. Aeronautics (UAS Cognate) · Top Aerospace Technology Student 2020 · D1 Track & Field · Summa Cum Laude
 - Private Pilot · FAA Part 107 Remote Pilot
 

@@ -12,7 +12,7 @@
 
 ---
 
-I supported physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched FedEx's humanoid robotics RFI process. Before that, I launched the first Wing drone delivery site in Frisco, TX and supported expansion across 50+ Walmart stores and spearheaded UAS and robotics integration at UPS Flight Forward. Now I'm at Boston Dynamics on the Spot team, focused on Next Bets — finding new ways to put the BD product family to work solving real problems.
+I supported physical AI integration of robotic trailer-loading at FedEx and authored the executive whitepaper that launched FedEx's humanoid robotics RFI process. Before that, I launched the first Wing drone delivery site in Frisco, TX and supported the expansion of last mile drone delivery across 50+ Walmart stores and spearheaded UAS and eVTOL integration at UPS. Now I'm at Boston Dynamics on the Spot team, focused on Next Bets — finding new ways to put the BD product family to work solving real problems.
 
 Outside of work, I co-found companies. I believe the best PMs can go from whiteboard to working prototype — so I started building.
 

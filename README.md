@@ -41,7 +41,7 @@ Deep-dive case studies with real product artifacts — architecture diagrams, wi
 |------|-------------|-------|
 | [**flyfit-buddy**](https://github.com/paige-millz/flyfit-buddy) | Air cargo fit calculator — checks if cargo fits through doors/cabins using real aircraft specs | React · TypeScript · Vite |
 | [**bulb-forecast-ai**](https://github.com/paige-millz/bulb-forecast-ai) | Predicts optimal bulb removal timing using Growing Degree Days + Easter regression | React · TypeScript · Supabase |
-| [**photo-journal-app**](https://github.com/paige-millz/photo-journal-app) | Photo journal with EXIF auto-parsing, film recipe tracking & camera metadata | Next.js · Supabase |
+| [**filmchronicles**](https://github.com/paige-millz/filmchronicles) | Photo journal with EXIF auto-parsing, film recipe tracking & camera metadata | Next.js · Supabase |
 
 ---
 

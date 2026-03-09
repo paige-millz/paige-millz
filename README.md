@@ -22,9 +22,9 @@ Outside of work, I co-found companies. I believe the best PMs can go from whiteb
 
 | | Company | What It Is | Status |
 |---|---------|-----------|--------|
-| <img src="logos/skyiq.png" alt="SkyIQ" height="20"> | [**SkyIQ**](https://www.skyiq.net) | Fuel planning & optimization for Part 135 aviation — AI parsing + Modified Dijkstra's | [Live App](https://app.skyiq.net) · Patent Pending |
-| <img src="logos/raising-reimagined.png" alt="Raising Reimagined" height="20"> | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — 198 campaigns, $127K raised in 2024, ~5K users | [Live App](https://app.raisingreimagined.com) |
-| <img src="logos/onflyair.png" alt="OnFly Air" height="20"> | [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7 | [Live Site](https://onflyair.com) |
+| <img src="logos/skyiq.png" alt="SkyIQ" height="30"> | [**SkyIQ**](https://www.skyiq.net) | Fuel planning & optimization for Part 135 aviation — AI parsing + Modified Dijkstra's | [Live App](https://app.skyiq.net) · Patent Pending |
+| <img src="logos/raising-reimagined.png" alt="Raising Reimagined" height="30"> | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — 198 campaigns, $127K raised in 2024, ~5K users | [Live App](https://app.raisingreimagined.com) |
+| <img src="logos/onflyair.png" alt="OnFly Air" height="30"> | [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7 | [Live Site](https://onflyair.com) |
 
 ## PM Portfolio
 

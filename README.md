@@ -35,6 +35,12 @@ Deep-dive case studies with real product artifacts — architecture diagrams, wi
 | [**raising-reimagined-portfolio**](https://github.com/paige-millz/raising-reimagined-portfolio) | Three-sided marketplace design · Stripe Connect architecture · Go-to-market strategy · Live app screenshots |
 | [**skyiq-portfolio**](https://github.com/paige-millz/skyiq-portfolio) | Modular system architecture · AI parsing + optimization flow · Brand identity I designed · UX wireframes |
 
+## Brand Work
+
+<a href="https://www.carwashcoffeeco.com"><img src="brand/car-wash-coffee-lineup.jpg" alt="Car Wash Coffee — six-bag lineup" width="100%"/></a>
+
+**[Car Wash Coffee](https://www.carwashcoffeeco.com)** — the fundraiser car wash, minus the car wash. Teams sell coffee online instead of washing cars in a parking lot. I built the brand end to end: name, packaging system, a six-bag lineup where every coffee is a car with its own driver, vector illustration, and the website. Runs on Raising Reimagined. · [Case study](https://paigemiller.xyz/design/car-wash-coffee)
+
 ## Code Projects
 
 | Repo | What I Built | Stack |

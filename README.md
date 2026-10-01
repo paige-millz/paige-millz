@@ -37,3 +37,26 @@ Deep-dive case studies with real product artifacts — architecture diagrams, wi
 
 <a href="https://www.carwashcoffeeco.com"><img src="brand/car-wash-coffee-site.jpg" alt="Car Wash Coffee website" width="100%"/></a>
 **[Car Wash Coffee](https://www.carwashcoffeeco.com)** — The website is the piece to open; I also built the brand end to end (name, packaging, six-bag lineup, illustration). Runs on Raising Reimagined.
+
+## Code Projects
+
+| Repo | What I Built | Stack |
+|------|-------------|-------|
+| [**flyfit-buddy**](https://github.com/paige-millz/flyfit-buddy) | Air cargo fit calculator — checks if cargo fits through doors/cabins using real aircraft specs | React · TypeScript · Vite |
+| [**bulb-forecast-ai**](https://github.com/paige-millz/bulb-forecast-ai) | Predicts optimal bulb removal timing using Growing Degree Days + Easter regression | React · TypeScript · Supabase |
+| [**filmchronicles**](https://github.com/paige-millz/filmchronicles) | Photo journal for film photographers — EXIF auto-parsing, film recipe tracking, AI organization | React · TypeScript · Supabase |
+
+---
+
+<details>
+<summary><strong>Career Timeline</strong></summary>
+<br/>
+
+- **Boston Dynamics** — Product Manager, Spot (Next Bets Initiatives)
+- **FedEx** — Analyst, OTI Physical AI · Robotic trailer-loading, authored humanoid robotics whitepaper
+- **Walmart** — Senior Manager, Automation Engineering · Supporting Walmart's drone delivery expansion
+- **UPS Flight Forward** — Management Engineering Lead, Strategy R&D · UAS/robotics/AI integration
+- **Liberty University** — B.S. Aeronautics (UAS Cognate) · Top Aerospace Technology Student 2020 · D1 Track & Field · Summa Cum Laude
+- Private Pilot · FAA Part 107 Remote Pilot
+
+</details>

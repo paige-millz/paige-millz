@@ -1,11 +1,13 @@
 <p align="center">
-<img src="banner.png" alt="Paige Miller — Product Manager at Boston Dynamics" width="100%"/>
+  <img src="banner.png" alt="Paige Miller — Product Manager at Boston Dynamics" width="100%"/>
 </p>
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/paigemillerengineer/)
 [![SkyIQ](https://img.shields.io/badge/SkyIQ-skyiq.net-012053?style=flat)](https://www.skyiq.net)
 [![Raising Reimagined](https://img.shields.io/badge/Raising_Reimagined-Live-4CAF50?style=flat)](https://raisingreimagined.com)
+
 </div>
 
 ---
@@ -36,7 +38,8 @@ Deep-dive case studies with real product artifacts — architecture diagrams, wi
 ## Brand Work
 
 <a href="https://www.carwashcoffeeco.com"><img src="brand/car-wash-coffee-site.jpg" alt="Car Wash Coffee website" width="100%"/></a>
-**[Car Wash Coffee](https://www.carwashcoffeeco.com)** — The website is the piece to open; I also built the brand end to end (name, packaging, six-bag lineup, illustration). Runs on Raising Reimagined.
+
+**[Car Wash Coffee](https://www.carwashcoffeeco.com)** — the fundraiser car wash, minus the car wash. Teams sell coffee online instead of washing cars in a parking lot. I built the brand end to end: the website, the name, a packaging system, a six-bag lineup where every coffee is a car with its own driver, and the vector illustration. Runs on Raising Reimagined.
 
 ## Code Projects
 

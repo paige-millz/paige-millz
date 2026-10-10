@@ -26,6 +26,12 @@ Outside of work, I co-found companies. I believe the best PMs can go from whiteb
 | <img src="logos/raising-reimagined.png" alt="Raising Reimagined" height="30"> | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — 198 campaigns, $127K raised in 2024, ~5K users | [Live App](https://app.raisingreimagined.com) |
 | <img src="logos/onflyair.png" alt="OnFly Air" height="30"> | [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7 | [Live Site](https://onflyair.com) |
 
+## Community
+
+| | Project | What It Is | Links |
+|---|---------|-----------|--------|
+| <img src="logos/olr-run-club.png" alt="OLR Run Club" height="30"> | [**OLR Run Club**](https://runolr.com) | Free water for runners and cyclists on Old LaGrange Road in Crestwood, KY. Started as a cooler at the end of our driveway in 2023 — now a neighborhood run club. I built the site: Stripe merch, Strava club, Buy Me a Coffee. | [Live Site](https://runolr.com) · [Repo](https://github.com/paige-millz/olr-run-club) |
+
 ## PM Portfolio
 
 Deep-dive case studies with real product artifacts — architecture diagrams, wireframes, brand systems, app screenshots, and strategic frameworks.

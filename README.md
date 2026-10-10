@@ -23,14 +23,14 @@ Outside of work, I co-found companies. I believe the best PMs can go from whiteb
 | | Company | What It Is | Status |
 |---|---------|-----------|--------|
 | <img src="logos/skyiq.png" alt="SkyIQ" height="30"> | [**SkyIQ**](https://www.skyiq.net) | Fuel planning & optimization for Part 135 aviation — AI parsing + Modified Dijkstra's | [Live App](https://app.skyiq.net) · Patent Pending |
-| <img src="logos/raising-reimagined.png" alt="Raising Reimagined" height="30"> | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — 198 campaigns, $127K raised in 2024, ~5K users | [Live App](https://app.raisingreimagined.com) |
+| <img src="logos/raising-reimagined.png" alt="Raising Reimagined" height="30"> | [**Raising Reimagined**](https://raisingreimagined.com) | No-cost fundraising platform — more than $600K raised for the organizations that use it | [Live App](https://app.raisingreimagined.com) |
 | <img src="logos/onflyair.png" alt="OnFly Air" height="30"> | [**OnFly Air**](https://onflyair.com) | On-demand air charter brokerage — nationwide, 24/7 | [Live Site](https://onflyair.com) |
 
 ## Community
 
 | | Project | What It Is | Links |
 |---|---------|-----------|--------|
-| <img src="logos/olr-run-club.png" alt="OLR Run Club" height="30"> | [**OLR Run Club**](https://runolr.com) | Free water for runners and cyclists on Old LaGrange Road in Crestwood, KY. Started as a cooler at the end of our driveway in 2023 — now a neighborhood run club. I built the site: Stripe merch, Strava club, Buy Me a Coffee. | [Live Site](https://runolr.com) · [Repo](https://github.com/paige-millz/olr-run-club) |
+| <img src="logos/olr-run-club.png" alt="OLR Run Club" height="30"> | [**OLR Run Club**](https://runolr.com) | Free water for runners and cyclists on Old LaGrange Road in Crestwood, KY — a cooler at the end of our driveway since 2023. I built the site for it: merch, a Strava club, and Buy Me a Coffee. | [Live Site](https://runolr.com) · [Repo](https://github.com/paige-millz/olr-run-club) |
 
 ## PM Portfolio
 

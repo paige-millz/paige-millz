@@ -30,7 +30,7 @@ Outside of work, I co-found companies. I believe the best PMs can go from whiteb
 
 | | Project | What It Is | Links |
 |---|---------|-----------|--------|
-| <img src="logos/olr-run-club.png" alt="OLR Run Club" height="30"> | [**OLR Run Club**](https://runolr.com) | Free water for runners and cyclists on Old LaGrange Road in Crestwood, KY — a cooler at the end of our driveway since 2023. I built the site for it: merch, a Strava club, and Buy Me a Coffee. | [Live Site](https://runolr.com) · [Repo](https://github.com/paige-millz/olr-run-club) |
+| <img src="logos/olr-run-club.png" alt="OLR Run Club" height="30"> | [**OLR Run Club**](https://runolr.com) | Free water for runners and cyclists on Old LaGrange Road in Crestwood, KY — a cooler at the end of our driveway since 2026. I built the site for it: merch, a Strava club, and Buy Me a Coffee. | [Live Site](https://runolr.com) · [Repo](https://github.com/paige-millz/olr-run-club) |
 
 ## PM Portfolio
 
